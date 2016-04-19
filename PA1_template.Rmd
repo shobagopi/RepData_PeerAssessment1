@@ -107,4 +107,3 @@ ggplot(Average_Activity_Data_Altered, aes(interval, steps)) +
     xlab("Interval") + 
     ylab("Number Of Steps")
 ```
-
